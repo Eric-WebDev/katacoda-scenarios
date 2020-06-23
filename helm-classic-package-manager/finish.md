@@ -1,3 +1,4 @@
 Congratulations! You've successfully deployed Redis to Kubernetes using Helm.
+You officially become full member of the team Orion !!!
 
-More details can be found on their website at http://www.helm.sh/
+
